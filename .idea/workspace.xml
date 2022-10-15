@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_5/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_5/hobbys.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/opdrachten_1_2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/opdrachten_1_2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/opleidingsaanbod/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
       <workItem from="1665729376776" duration="122000" />
       <workItem from="1665747384870" duration="153000" />
       <workItem from="1665747605208" duration="26000" />
-      <workItem from="1665855628719" duration="1336000" />
+      <workItem from="1665855628719" duration="1762000" />
     </task>
     <servers />
   </component>
