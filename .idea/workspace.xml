@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo5/Opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/Opdracht_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/Opdracht_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/Opdracht_6/Styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/Opdracht_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/Opdracht_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_5/hoofdpagina index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_5/hoofdpagina index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -41,6 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Webdevelopmet&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,7 +81,10 @@
       <workItem from="1665747384870" duration="153000" />
       <workItem from="1665747605208" duration="26000" />
       <workItem from="1665855628719" duration="1935000" />
-      <workItem from="1665913473963" duration="534000" />
+      <workItem from="1665913473963" duration="1963000" />
+      <workItem from="1666181557945" duration="3935000" />
+      <workItem from="1666195404678" duration="53000" />
+      <workItem from="1666718665488" duration="13468000" />
     </task>
     <servers />
   </component>
