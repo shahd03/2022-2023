@@ -2,15 +2,17 @@ body {
     background-image: url("../Webdevelopmet/Labo4/pic/P.jpg");
     background-size: cover;
 }
+
 h1 {
     text-align: center;
 }
+
 .Labo4 {
     position: absolute;
     left: 75%;
     top:117px;
-
 }
+
 .Labo6 {
     position: relative;
     left: 75%;
