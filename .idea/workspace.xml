@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo5/Opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo5/Opdracht_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo5/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo5/Opdracht_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo5/Opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo5/Opdracht_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdrach1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdracht1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdracht3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdracht5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdracht5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdracht6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdracht6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/resume.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -80,7 +89,11 @@
       <workItem from="1666195404678" duration="53000" />
       <workItem from="1666718665488" duration="13468000" />
       <workItem from="1666739599573" duration="66000" />
-      <workItem from="1666773888704" duration="1457000" />
+      <workItem from="1666773888704" duration="1554000" />
+      <workItem from="1666775642999" duration="169000" />
+      <workItem from="1666786579061" duration="6777000" />
+      <workItem from="1666794661359" duration="614000" />
+      <workItem from="1667052757199" duration="5519000" />
     </task>
     <servers />
   </component>

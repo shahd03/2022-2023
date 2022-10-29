@@ -1,0 +1,32 @@
+body{
+    font-family: Helvetica, serif ;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 40px;
+}
+header{
+    color:#8D99AE;
+    background-color:#2B2D42 ;
+    margin-bottom: 10px;
+}
+footer{
+    color:#8D99AE;
+    background-color: #2B2D42;
+    margin-top: 10px;
+}
+main{
+    background-color: #8D99AE;
+}
+header, footer, main{
+    padding:30px;
+
+}
+a{
+    color : red;
+}
+.kleurh1h2header{
+    color:#EDF2F4;
+}
