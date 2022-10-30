@@ -1,5 +1,5 @@
 body {
-    background-image: url("../Webdevelopmet/PIC/P.jpg");
+    background-image: url("../PIC/Backgrounds/P.jpg");
     background-size: cover;
 }
 
@@ -8,12 +8,12 @@ h1 {
     background-color: plum;
 }
 
-.Labo4 {
+.labo4 {
     position: absolute;
     left: 75%;
     top:117px;
 }
-.Labo6 {
+.labo6 {
     position: relative;
     left: 75%;
     top: -305px;
