@@ -1,5 +1,5 @@
 body {
-    background-image: url("../Webdevelopmet/PIC/Backgrounds/P.jpg");
+    background-image: url("../PIC/P.jpg");
     background-size: cover;
 }
 
@@ -15,11 +15,12 @@ h1 {
 }
 .labo6 {
     position: relative;
-    left: 75%;
+    left: 40%;
     top: -305px;
 }
 .labo7
 {
     position: absolute;
-    top:800px;
+    left: 75%;
+    top:429px;
 }

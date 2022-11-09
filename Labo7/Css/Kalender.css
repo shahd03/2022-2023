@@ -6,7 +6,7 @@ table{
 th{
     background-color: rgb(170,170,200);
     color: black;
-    border: 1px solid black;
+    border: thin dotted ;
 }
 tr:first-child td{
     background-color: rgb(35,37,70);
@@ -42,9 +42,5 @@ tr:last-child td:nth-child(7){
 }
 
 #free {
-    background-color: rgb(250,120,120);
-}
-.month {
-    position: relative;
-    left: 63px;
+    background-color: rgb(250, 120, 120);
 }
