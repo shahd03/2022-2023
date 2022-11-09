@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Labos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Css/Kalender.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht2/Pagina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht3/Kalender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht3/Opdracht3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIC/P.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PIC/Backgrounds/P.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Labos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Css/Pagina.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht1/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdrach1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/Opdrach1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/CSS/Opdracht1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/Opdracht3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/CSS/Opdracht5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/Opdracht5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht6.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/CSS/Opdracht6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/Opdracht6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht2/Opdracht2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/CSS/resume.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,6 +72,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo6/CSS" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\CSS" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\PIC\Backgrounds" />
     </key>
   </component>
@@ -95,7 +114,12 @@
       <workItem from="1667052757199" duration="24338000" />
       <workItem from="1667131808242" duration="135000" />
       <workItem from="1667132416255" duration="2680000" />
-      <workItem from="1667156279030" duration="2636000" />
+      <workItem from="1667156279030" duration="3608000" />
+      <workItem from="1667895333752" duration="190000" />
+      <workItem from="1667942321871" duration="5908000" />
+      <workItem from="1667973835636" duration="2605000" />
+      <workItem from="1667988035922" duration="2034000" />
+      <workItem from="1668000360287" duration="1355000" />
     </task>
     <servers />
   </component>

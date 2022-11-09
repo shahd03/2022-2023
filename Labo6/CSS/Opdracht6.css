@@ -1,11 +1,11 @@
 li{
-    background-image: url("../Labo5/Opdracht_6/Styles/pic0.png") ;
+    background-image: url("../../Labo5/Opdracht_6/Styles/pic0.png") ;
     background-size: 15px 15px;
     background-repeat: no-repeat;
     padding-left: 20px;
 }
 .checked{
-    background-image: url("../Labo5/Opdracht_6/Styles/pic1.png") ;
+    background-image: url("../../Labo5/Opdracht_6/Styles/pic1.png") ;
     background-size: 15px 15px;
     background-repeat: no-repeat;
     padding-left: 20px;
