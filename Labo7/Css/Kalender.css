@@ -1,18 +1,16 @@
 table{
-    border: 1px solid black;
+    border: 2px solid black;
     border-collapse: collapse;
 }
 
 th{
     background-color: rgb(170,170,200);
     color: black;
-    border: thin dotted ;
 }
 tr:first-child td{
     background-color: rgb(35,37,70);
     color: rgb(200,190,240);
     text-align: center;
-    font-weight: bold;
 }
 td:first-child{
     background-color:rgb(255, 220, 220);
@@ -42,5 +40,5 @@ tr:last-child td:nth-child(7){
 }
 
 #free {
-    background-color: rgb(250, 120, 120);
+    background-color: rgb(250,120,120);
 }

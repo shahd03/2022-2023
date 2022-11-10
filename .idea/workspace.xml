@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo7/Css/homepagina.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht2/homepagina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/geenOpdracht/Pagina.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/Opdracht3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo7/Css/Kalender.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Css/Kalender.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/Css/Pagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Css/Pagina.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht1/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht1/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht2/Opdracht2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht2/Opdracht2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht2/Pagina.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo7/Opdracht3/Kalender.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht3/Kalender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIC/Backgrounds/P.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PIC/P.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht3/Opdracht3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht3/Opdracht3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -56,11 +63,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\geenOpdracht" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Opdracht2" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\CSS" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\PIC" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo6/CSS" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\PIC\Backgrounds" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -104,7 +111,11 @@
       <workItem from="1667942321871" duration="5908000" />
       <workItem from="1667973835636" duration="2605000" />
       <workItem from="1667988035922" duration="2034000" />
-      <workItem from="1668000360287" duration="5264000" />
+      <workItem from="1668000360287" duration="6334000" />
+      <workItem from="1668031881881" duration="9624000" />
+      <workItem from="1668066580202" duration="24000" />
+      <workItem from="1668078411657" duration="9611000" />
+      <workItem from="1668102002056" duration="4118000" />
     </task>
     <servers />
   </component>
