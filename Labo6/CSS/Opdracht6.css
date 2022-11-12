@@ -10,3 +10,7 @@ li{
     background-repeat: no-repeat;
     padding-left: 20px;
 }
+body {
+    background-image: url("../foto/10971701.jpg");
+    background-size: cover;
+}

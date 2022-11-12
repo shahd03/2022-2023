@@ -1,0 +1,57 @@
+body{
+    background: repeating-linear-gradient(
+            45deg,
+            #faacbf,
+            #cdb5e5 50px,
+            #cc94f2 50px,
+            #cdb5e5 100px
+    );
+    background-attachment: fixed;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    padding: 280px;
+}
+h2{
+    margin:0;
+
+}
+
+body > section{
+    width:900px;
+    margin:auto;
+}
+
+body > section > header{
+    margin:0 0 10px 0;
+    padding:20px;
+    background-color: plum;
+    font-size:2em;
+    font-weight:bold;
+    color:#F2E394	;
+    border: solid 10px #4f064f;
+    text-shadow: 2px 2px #444444;
+}
+
+article{
+    border: solid 10px #4f064f;
+    margin-bottom:20px;
+    background-color:plum;
+}
+
+article > header{
+    color:#F2E394;
+    padding:5px;
+    background-color:#4f064f;
+    text-shadow: 2px 2px #4f064f;
+    background:-o-linear-gradient(bottom, #4f064f, plum 100%);
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4f064f), color-stop(1, plum) ); background:-moz-linear-gradient(center top, #4f064f 5%, plum 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="pink", endColorstr="hotpink");	background: -o-linear-gradient(top,pink,hotpink);
+
+}
+article > footer > hr{
+    height:10px;
+    background-color: #f82394;
+    border:none;
+    margin: 0;
+}

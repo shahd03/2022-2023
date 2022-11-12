@@ -19,3 +19,8 @@ p.paragraaf2{color: forestgreen;}
 
 p.paragraaf3{color: blue;}
 
+body {
+    background-image: url("10971701.jpg");
+    background-size: cover;
+}
+

@@ -5,3 +5,7 @@ ul li {
  li > a {
     color:red;
 }
+body {
+    background-image: url("../foto/10971701.jpg");
+    background-size: cover;
+}

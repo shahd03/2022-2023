@@ -5,18 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo7/Css/homepagina.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht2/homepagina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/geenOpdracht/Pagina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/labo3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/labo4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/labos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/CSS/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/CSS/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/CSS/op123.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/CSS/opleidingsaanbod.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/labo3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/Css/op1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/Css/op2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/Css/op5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/labo4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/pic/10971701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/Opdracht_6/Styles/10971701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/css/labo5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/css/opdracht.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/labo5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/pic/10971701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/foto/10971701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/labo6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Css/10971701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Css/hobbies.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Css/likes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Css/op.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/geenOpdracht/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/geenOpdracht/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/geenOpdracht/likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/labo7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labos/css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labos/html.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/Opdracht3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo7/Css/Kalender.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Css/Kalender.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/opdrachten_1_2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/opdrachten_1_2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_5/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_5/hobbys.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_5/hoofdpagina index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_5/hoofdpagina index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/opdracht_5/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/opdracht_5/likes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo5/Opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo5/Opdracht_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo5/Opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo5/Opdracht_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo5/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo5/Opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo5/Opdracht_6/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo5/Opdracht_6/Styles/stijl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo5/Opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo5/Opdracht_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/CSS/Opdracht1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/CSS/Opdracht1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/CSS/Opdracht5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/CSS/Opdracht5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/CSS/Opdracht6.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/CSS/Opdracht6.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo7/Css/Pagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Css/Pagina.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht1/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht1/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/Css/homepagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Css/homepagina.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo7/Opdracht2/Opdracht2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht2/Opdracht2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht2/Pagina.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht3/Kalender.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht3/Kalender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht2/homepagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht2/homepagina.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo7/Opdracht3/Opdracht3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht3/Opdracht3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/geenOpdracht/Pagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/geenOpdracht/Pagina.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,28 +91,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Webdevelopmet&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Webdevelopmet/Labo7/Css",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\geenOpdracht" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Opdracht2" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\CSS" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\PIC" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo6\foto" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo5\Opdracht_6\Styles" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo4\pic" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo3\homepage\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo5\pic" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo3\CSS" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labos" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\geenOpdracht\foto" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -115,7 +167,8 @@
       <workItem from="1668031881881" duration="9624000" />
       <workItem from="1668066580202" duration="24000" />
       <workItem from="1668078411657" duration="9611000" />
-      <workItem from="1668102002056" duration="4118000" />
+      <workItem from="1668102002056" duration="15419000" />
+      <workItem from="1668254019959" duration="9765000" />
     </task>
     <servers />
   </component>

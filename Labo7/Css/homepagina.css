@@ -138,9 +138,9 @@ tr:first-child th{
     text-shadow: 2px 2px hotpink;
 }
 tr:hover td{
-    background:-o-linear-gradient(bottom, wheat%5, white 100%);
+    background:-o-linear-gradient(bottom, wheat 5%, white 100%);
     background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, wheat), color-stop(1, white) );
-    background:-moz-linear-gradient( center top, wheat 5%, white 100% );
+    background:-moz-linear-gradient(center top, wheat 5%, white 100% );
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="wheat", endColorstr="plum");	background: -o-linear-gradient(top,wheat,white);
     color: #4f064f;
     background-color:pink;
