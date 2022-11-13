@@ -1,0 +1,115 @@
+body > section{
+    width:900px;
+    margin:auto;
+}
+
+body > section > header{
+    margin:0 0 10px 0;
+    padding:20px;
+    background-color: plum;
+    font-size:2em;
+    font-weight:bold;
+    color:#F2E394;
+    border: solid 10px #4f064f;
+    text-shadow: 2px 2px #444444;
+}
+
+article{
+    border: solid 10px #4f064f;
+    margin-bottom:20px;
+    background-color:plum;
+}
+
+article > header {
+    color: #F2E394;
+    padding: 5px;
+    background-color: #4f064f;
+    text-shadow: 2px 2px #4f064f;
+    background: -o-linear-gradient(bottom, #4f064f, plum 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #4f064f), color-stop(1, plum));
+    background: -moz-linear-gradient(center top, #4f064f 5%, plum 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="pink", endColorstr="hotpink");
+    background: -o-linear-gradient(top, pink, hotpink);
+}
+article > footer > hr{
+    height:10px;
+    background-color: #f82394;
+    border:none;
+    margin: 0;
+}
+
+body > section > footer{
+    background-color:#8C4646;
+    font-size:1.2em;
+    padding: 10px;
+    border: solid 10px #F2E394;
+    text-align:center;
+    color:#F2E394;
+}
+ul > li a:link, ul > li a:active, ul > li a:visited{
+    color: #d3006b;
+    text-decoration:none;
+}
+
+ul > li a:hover{
+    text-decoration:none;
+    background-color:#F2E394;
+    color:hotpink;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width:100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    border:1px solid #4f064f;
+}
+
+tr:nth-child(odd){
+    background-color:plum;
+}
+tr:nth-child(even){
+    background-color:pink;
+}
+td{
+    vertical-align:middle;
+    border:1px solid #4f064f;
+    border-width:0px 1px 1px 0px;
+    padding:3px;
+    font-size:12px;
+    color:#4f064f;
+}
+tr:first-child th{
+    background:-o-linear-gradient(bottom, pink, palevioletred 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, pink), color-stop(1, palevioletred) );
+    background:-moz-linear-gradient( center top, pink 5%, hotpink 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="pink", endColorstr="palevioletred");	background: -o-linear-gradient(top,pink,palevioletred);
+
+    background-color:hotpink;
+    border:0px solid pink;
+    text-align:center;
+    border-width:0px 0px 1px 1px;
+    font-size:14px;
+    font-family:Arial;
+    font-weight:bold;
+    color:#f2e394;
+    text-shadow: 2px 2px hotpink;
+}
+tr:hover td{
+    background:-o-linear-gradient(bottom, wheat 5%, white 100%);
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, wheat), color-stop(1, white) );
+    background:-moz-linear-gradient(center top, wheat 5%, white 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="wheat", endColorstr="plum");	background: -o-linear-gradient(top,wheat,white);
+    color: #4f064f;
+    background-color:pink;
+}
+h1 {
+   position: relative;
+    left: 730px;
+
+}
+body {
+    background-image: url("../Css/10971701.jpg");
+    background-size: cover;
+}
