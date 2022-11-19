@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo7/Css/op2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Css/op2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/flexbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/images/bg-pattern-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/images/bg-pattern-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/images/bg-pattern-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/images/image-victor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labos/flexbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIC/WhatsApp Image 2022-11-19 at 16.16.24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Webdevelopmet/Labo7/Css",
+    "last_opened_file_path": "C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/Flexbox/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,18 +60,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Flexbox\images" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo6\foto" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo5\Opdracht_6\Styles" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo4\pic" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo3\homepage\image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\PIC" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo5\pic" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo3\CSS" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labos" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\geenOpdracht\foto" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,6 +121,8 @@
       <workItem from="1668078411657" duration="9611000" />
       <workItem from="1668102002056" duration="15419000" />
       <workItem from="1668254019959" duration="15992000" />
+      <workItem from="1668883110781" duration="14000" />
+      <workItem from="1668883134441" duration="1067000" />
     </task>
     <servers />
   </component>
