@@ -1,0 +1,22 @@
+html {
+    display: block;
+}
+head {
+    display: none;
+}
+.float-child1 {
+    width: 49%;
+    float: left;
+    border: 1px solid black;
+    margin-left: 5px;
+}
+section {
+    box-sizing: border-box;
+    display: block;
+}
+.float-child2 {
+    width: 49%;
+    float: right;
+    border: 1px solid black;
+    margin-left: 5px;
+}

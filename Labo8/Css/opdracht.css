@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/photo.jpg");
+    background-size: cover;
+}
+h1 {
+    color: #330133;
+}
+h3 {
+    color: #225606;
+}
