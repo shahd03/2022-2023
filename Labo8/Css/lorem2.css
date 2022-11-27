@@ -8,6 +8,7 @@ head {
     width: 49%;
     float: left;
     border: 1px solid black;
+    padding: 20px;
     margin-left: 5px;
 }
 section {
@@ -18,5 +19,6 @@ section {
     width: 49%;
     float: right;
     border: 1px solid black;
+    padding: 20px;
     margin-left: 5px;
 }

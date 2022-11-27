@@ -19,7 +19,7 @@ body {
     box-sizing: border-box;
     margin: 5px;
     text-align: center;
-    background-image: url("images/cocktail.gif");
+    background-image: url("../images/cocktail.gif");
     background-repeat: repeat-x;
     padding-left: 10px;
     padding-right: 10px;
@@ -64,7 +64,7 @@ footer {
     color: #444444;
     background-color: #a7cece;
     border: 1px dashed white;
-    background-image: url("images/background.gif");
+    background-image: url("../images/background.gif");
     background-repeat: no-repeat;
     background-position: top left;
 }
