@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo8/Css/op4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Css/op5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht5/voorbeeld4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/Cocktail bar/Cocktail bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Cocktail bar/Cocktail bar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo8/Css/cocktail.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Css/cocktail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/Css/lorem2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Css/lorem2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/Opdracht4/Opdracht4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Opdracht4/Opdracht4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/Opdracht5/Opdracht5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/labo8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/labo8.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +123,7 @@
       <workItem from="1669230242336" duration="1187000" />
       <workItem from="1669418984478" duration="5238000" />
       <workItem from="1669470417275" duration="5968000" />
-      <workItem from="1669544613051" duration="5671000" />
+      <workItem from="1669544613051" duration="6418000" />
     </task>
     <servers />
   </component>

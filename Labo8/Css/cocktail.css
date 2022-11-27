@@ -41,7 +41,7 @@ h2 {
 }
 
 .h2week {
-    color: hotpink;
+    color: #007E7E;
 }
 
 .a:hover {
@@ -91,4 +91,9 @@ section {
 
 #color2 {
     color: black;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
 }
