@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo9/CSS/airbus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/CSS/labo9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/CSS/positioneren.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/Labo9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/Cocktail bar/Cocktail bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Cocktail bar/Cocktail bar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/Css/cocktail.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Css/cocktail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/Css/opdracht.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Css/opdracht.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/images/photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/images/photo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labos/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labos/css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo9/CSS/airbus.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/CSS/airbus.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +128,7 @@
       <workItem from="1669885154750" duration="91000" />
       <workItem from="1669924671841" duration="655000" />
       <workItem from="1669966802862" duration="219000" />
-      <workItem from="1670075198178" duration="10864000" />
+      <workItem from="1670075198178" duration="12186000" />
     </task>
     <servers />
   </component>

@@ -50,7 +50,7 @@ aside {
     background-color: #dddddd;
     border: 1px solid #999999;
     color: #666666;
-    font-size: 90%;
+    font-size: 89%;
     float: right;
 }
 aside h3 {
@@ -88,6 +88,7 @@ main article span {
     text-align: justify;
 }
 main article p {
+    font-size: 90%;
     background-color: white;
     color: black;
     text-align: justify;
