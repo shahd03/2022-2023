@@ -1,0 +1,165 @@
+body {
+    margin: auto;
+    width: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url("../opdracht airbus/fotos/pagebackground.png") center repeat-y;
+}
+header {
+    height: 200px;
+    margin: auto;
+    position: relative;
+    color: darkblue;
+    text-align: center;
+    background-image: url("../opdracht airbus/fotos/bgsky3.jpg");
+}
+p {
+
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+header h1 {
+    font-size: 300%;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-style: italic;
+    color: darkblue;
+    text-align: center;
+}
+header h2 {
+    font-size: 240%;
+    font-weight: bold;
+    color: darkblue;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+}
+header img {
+    position: absolute;
+    right: 90px;
+    bottom: 60px;
+}
+aside {
+    width: 250px;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+    color: #666666;
+    font-size: 90%;
+    float: right;
+}
+aside h3 {
+    color: white;
+    background-color: blue;
+    font-size: 120%;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+aside p {
+    padding: 0px 10px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+main {
+    width: 700px;
+}
+main article img {
+    float: left;
+    padding: 20px;
+}
+b {
+    font-weight: bold;
+}
+main article span {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+}
+main article p {
+    background-color: white;
+    color: black;
+    text-align: justify;
+    padding: 20px 30px 20px 0;
+    margin: 0;
+    overflow: hidden;
+}
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0px;
+}
+.topimg {
+    padding-top: 10px;
+}
+main div {
+    background-color: #999999;
+}
+.gallery div img {
+    border: 1px dotted #999999;
+    background-color: white;
+    padding:10px;
+    margin: 10px;
+}
+main div img {
+    height: 180px;
+    width: 180px;
+}
+footer {
+    background-color: #666666;
+    color: white;
+    line-height: 2em;
+}
+footer div:nth-child(1) {
+    float: left;
+    padding-left: 120px;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align-last: start !important;
+    text-align: start !important;
+}
+ul ul {
+    list-style-type: circle;
+}
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.bottom {
+    text-align: center;
+    color: black;
+}
+footer div:nth-child(2)
+{
+    overflow: hidden;
+    padding-left: 120px;
+}

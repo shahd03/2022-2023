@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo9/CSS/airbus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo9/CSS/labo9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo9/CSS/positioneren.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo9/Labo9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo8/Cocktail bar/Cocktail bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Cocktail bar/Cocktail bar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo8/Css/cocktail.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Css/cocktail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/Css/opdracht.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/Css/opdracht.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/images/photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/images/photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labos/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labos/css.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/Labo8/Opdracht5",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/Labo8/Opdracht5&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\Opdracht5" />
@@ -61,11 +68,11 @@
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo6\foto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo9\images" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo9" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo9\CSS" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\images" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\PIC" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo5\pic" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo3\CSS" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -123,7 +130,13 @@
       <workItem from="1669230242336" duration="1187000" />
       <workItem from="1669418984478" duration="5238000" />
       <workItem from="1669470417275" duration="5968000" />
-      <workItem from="1669544613051" duration="6418000" />
+      <workItem from="1669544613051" duration="6472000" />
+      <workItem from="1669814229171" duration="6559000" />
+      <workItem from="1669845209269" duration="3875000" />
+      <workItem from="1669885154750" duration="91000" />
+      <workItem from="1669924671841" duration="655000" />
+      <workItem from="1669966802862" duration="219000" />
+      <workItem from="1670075198178" duration="10864000" />
     </task>
     <servers />
   </component>
