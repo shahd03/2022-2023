@@ -1,0 +1,139 @@
+section {
+    border-style: solid;
+    color: black;
+    border-radius: 25px;
+    border-width: 5px;
+    margin: 20px 20px 20px 20px;
+    opacity: 90%;
+}
+
+body {
+    background-image: url("../images/img_2.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+img {
+    border-style: solid;
+    color: #464644;
+    border-radius: 25px;
+    border-width: 5px;
+
+}
+
+iframe {
+    border-style: solid;
+    color: #f82394;
+    border-radius: 25px;
+    border-width: 5px;
+
+}
+
+.home {
+    font-size: 0.9em;
+    font-family: sans-serif;
+    bottom: 0;
+    background-color: rgb(22, 24, 35);
+}
+
+body {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+th {
+    width: 200px;
+}
+
+.me {
+    width: 80%;
+}
+
+.voetbal {
+    width: 30%;
+}
+
+.tennis {
+    width: 30%;
+}
+
+.teken {
+    width: 50%;
+}
+
+.band {
+    width: 40%;
+}
+
+.film {
+    width: 50%;
+}
+.song {
+    width: 50%;
+}
+
+iframe {
+    width: 40%;
+    height: 232px;
+}
+
+.banner {
+    background-image: url("../images/img_1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(22, 24, 35);
+    font-size: 30px;
+    margin: 20px 0 10px 0;
+}
+
+.info {
+    background-color: white;
+    margin: 10px 0 20px 10px;
+}
+
+.hobbies{
+    background-color: white;
+    margin: 10px 10px 10px 0;
+}
+
+.likes {
+    background-color: white;
+    margin: 10px 10px 20px 0;
+}
+
+
+h1 {
+    text-decoration-line: underline;
+    color: purple;
+}
+
+ul {
+    color: red;
+}
+
+a {
+    text-decoration-line: none;
+    color: red;
+}
+
+a:hover {
+    color: #4f064f;
+}
+
+section:hover {
+    opacity: 95%;
+}
+
+div {
+    justify-content: center;
+}
+h3 {
+    color: #000000;
+}

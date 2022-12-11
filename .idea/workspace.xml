@@ -5,8 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo10/CSS/com.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/CSS/labo10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/CSS/oef1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/CSS/shahd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Composotie/com.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Homepage/shahd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/1,920 × 1,080.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/10971701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/360_F_537172411_C4GmfD6cpU7mrra2CYzyYUL34w3Bk1mN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/91293-saram-texture-berry-product_ae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/WhatsApp Image 2022-11-19 at 16.10.22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/table-tennis-shots.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/womens-football.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/labo10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/oef1-2/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/oef1-2/oef2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/oef2.3/oef1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo9/CSS/airbus.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/CSS/airbus.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labos/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labos/css.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +64,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/Labo8/Opdracht5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/Labo10/images&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -53,18 +76,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\images" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\Opdracht5" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\image" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Flexbox\images" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo6\foto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\images" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\oef1-2" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\CSS" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\oef2.3" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo9\images" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo9" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo9\CSS" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\images" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -129,6 +152,13 @@
       <workItem from="1669924671841" duration="655000" />
       <workItem from="1669966802862" duration="219000" />
       <workItem from="1670075198178" duration="13200000" />
+      <workItem from="1670318104679" duration="401000" />
+      <workItem from="1670421449018" duration="3951000" />
+      <workItem from="1670439228912" duration="1073000" />
+      <workItem from="1670485088400" duration="38000" />
+      <workItem from="1670500171396" duration="502000" />
+      <workItem from="1670758386566" duration="3167000" />
+      <workItem from="1670785190359" duration="6828000" />
     </task>
     <servers />
   </component>
