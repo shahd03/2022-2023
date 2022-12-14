@@ -1,0 +1,120 @@
+.container {
+    display: grid;
+    grid-template-rows:repeat(3, auto);
+    grid-template-columns: repeat(3, auto);
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+}
+
+.container .block {
+    padding: 20px;
+    color: white;
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media (min-width: 992px) {
+    .block.block1 {
+        background-color: #B6366A;
+        column-span: all;
+        grid-row: 1;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .block.block2 {
+        background-color: #726EA6;
+        column-span: all;
+        grid-row: 2;
+        grid-column-start: 1;
+        grid-column-end: 4;
+
+    }
+
+    .block.block3 {
+        background-color: #7D8DC2;
+
+        grid-row: 3;
+        grid-column-start: 1;
+        grid-column-end: 2;
+    }
+
+    .block.block4 {
+        background-color: #A1D2DA;
+
+        grid-row: 3;
+        grid-column-start: 2;
+        grid-column-end: 4;
+    }
+}
+
+@media (min-width: 772px) and (max-width: 992px) {
+    .block.block1 {
+        background-color: #B6366A;
+        column-span: all;
+        grid-row: 1;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .block.block2 {
+        background-color: #726EA6;
+        column-span: all;
+        grid-row: 3;
+        grid-column-start: 1;
+        grid-column-end: 4;
+
+    }
+
+    .block.block3 {
+        background-color: #7D8DC2;
+
+        grid-row: 2;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .block.block4 {
+        background-color: #A1D2DA;
+
+        grid-row: 4;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+}
+
+@media (min-width: 320px ) and (max-width: 772px) {
+    .block.block1 {
+        background-color: #B6366A;
+        column-span: all;
+        grid-row: 2;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .block.block2 {
+        background-color: #726EA6;
+        column-span: all;
+        grid-row: 1;
+        grid-column-start: 1;
+        grid-column-end: 4;
+
+    }
+
+    .block.block3 {
+        background-color: #7D8DC2;
+
+        grid-row: 3;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .block.block4 {
+        background-color: #A1D2DA;
+
+        grid-row: 4;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+}

@@ -5,30 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo10/CSS/com.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/CSS/labo10.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/CSS/oef1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/CSS/shahd.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Composotie/com.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Homepage/shahd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/1,920 × 1,080.url" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/10971701.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/360_F_537172411_C4GmfD6cpU7mrra2CYzyYUL34w3Bk1mN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/91293-saram-texture-berry-product_ae.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/WhatsApp Image 2022-11-19 at 16.10.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/table-tennis-shots.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/womens-football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/labo10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/oef1-2/index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/oef1-2/oef2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/oef2.3/oef1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Beginsituatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/oef1/exercise1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/oef2/exercise2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/oef3/exercise3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/oef4/exercise4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/oef5/exercise5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/oef6/exercise6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/homepage/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labos/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labos/css.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -83,11 +68,11 @@
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\images" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\oef1-2" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\CSS" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\oef2.3" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo9\images" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11\Beginsituatie" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11\oef6" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11\oef5" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11\oef4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -159,6 +144,10 @@
       <workItem from="1670500171396" duration="502000" />
       <workItem from="1670758386566" duration="3167000" />
       <workItem from="1670785190359" duration="6828000" />
+      <workItem from="1670792127490" duration="427000" />
+      <workItem from="1670956484634" duration="2310000" />
+      <workItem from="1671023803464" duration="5952000" />
+      <workItem from="1671043628203" duration="1903000" />
     </task>
     <servers />
   </component>
