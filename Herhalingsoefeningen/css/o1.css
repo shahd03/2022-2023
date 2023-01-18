@@ -1,0 +1,114 @@
+.caption {
+    font-family: helvetica;
+    font-size: 16px;
+    margin-top: 12px;
+
+}
+
+.gridHeader {
+    background-color: #dcd6fe;
+}
+
+.gridNav {
+    background-color: #c6c0ff;
+}
+
+.gridMain {
+    background-color: #f9f6d2;
+}
+
+.gridAside {
+    background-color: #d4ffd1;
+}
+
+.gridFooter {
+    background-color: #ffd1d1;
+}
+@media screen and (min-width: 786px) and (max-height: 800px){
+    .grid {
+        display: grid;
+        grid-template-columns: 0.05fr 0.1fr 1fr 0.1fr 0.05fr;
+        grid-template-areas:
+        'h h h h h'
+        '. n m a .'
+        'f f f f f';
+    }
+
+    .gridHeader {
+
+        background-color: #dcd6fe;
+        grid-area: h;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+
+    .gridNav {
+        background-color: #c6c0ff;
+        grid-area: n;
+        text-align: center;
+    }
+
+    .gridMain {
+        background-color: #f9f6d2;
+        grid-area: m;
+        text-align: center;
+        padding-bottom: 50px;
+
+
+    }
+
+    .gridAside {
+        background-color: #d4ffd1;
+        grid-area: a;
+        text-align: center;
+    }
+
+    .gridFooter {
+        background-color: #ffd1d1;
+        grid-area: f;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+
+}
+@media screen and (max-width: 786px){
+    .grid{
+        display: grid;
+        grid-template-rows: auto auto auto auto auto;
+        text-align: center;
+        grid-template-areas:
+          'h'
+          'n'
+          'm'
+          'a'
+          'f';
+    }
+    .gridHeader {
+        background-color: #dcd6fe;
+        padding: 20px;
+        grid-area: h;
+    }
+    .gridNav {
+        background-color: #c6c0ff;
+        padding: 20px;
+        grid-area: n;
+    }
+
+    .gridMain {
+        background-color: #f9f6d2;
+        padding: 20px;
+        grid-area: m;
+    }
+
+    .gridAside {
+        background-color: #d4ffd1;
+        padding: 20px;
+        grid-area: a;
+    }
+
+    .gridFooter {
+        background-color: #ffd1d1;
+        padding: 20px;
+        grid-area: f;
+    }
+}
