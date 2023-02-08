@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,11 +59,11 @@
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\index" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Herhalingsoefeningen" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11\Beginsituatie" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11\oef6" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo11\oef5" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -145,7 +144,7 @@
       <workItem from="1674023877893" duration="60000" />
       <workItem from="1674025265799" duration="601000" />
       <workItem from="1675503395808" duration="1684000" />
-      <workItem from="1675832282930" duration="297000" />
+      <workItem from="1675832282930" duration="622000" />
     </task>
     <servers />
   </component>
