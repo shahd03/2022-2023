@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labos2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leeg/leeg.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labos2/leeg/leeg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leeg/scripts/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Labos2/leeg/scripts/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leeg/styles/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labos2/leeg/styles/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rekenmachine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labos2/rekenmachine/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rekenmachine/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Labos2/rekenmachine/scripts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rekenmachine/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labos2/rekenmachine/styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s2Labo1/labo1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labos2/s2Labo1/labo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Arrays/Arrays.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Arrays/Arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht1/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht1/h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht1/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht2/JS/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht2/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht2/w.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht4/image/Screenshot 2023-02-21 224138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht4/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht4/o4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht5/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht5/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/Opdracht5/o5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/labo2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sem2/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2/sem2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -68,11 +76,11 @@
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Webdevelopmet\Labo7\Css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht5\css" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht4\image" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht1\css" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht1\js" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labos2" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\rekenmachine" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\leeg" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\index" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -154,7 +162,9 @@
       <workItem from="1674025265799" duration="601000" />
       <workItem from="1675503395808" duration="1684000" />
       <workItem from="1675832282930" duration="1229000" />
-      <workItem from="1675931769698" duration="1941000" />
+      <workItem from="1675931769698" duration="2870000" />
+      <workItem from="1676145012101" duration="442000" />
+      <workItem from="1677006597188" duration="10196000" />
     </task>
     <servers />
   </component>
