@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/S2Labo3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Demonstratie Lijsten/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Demonstratie Lijsten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Demonstratie_images/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Demonstratie_images/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Demonstratie_images/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Kopieer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Kopieer/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Opdracht6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/Opdracht6/scripts/indes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/sub/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo2/sub/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/Opdracht1/h.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/Opdracht1/h.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/Opdracht4/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/Opdracht4/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/Opdracht4/o4.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/Opdracht4/o4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/Opdracht5/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/Opdracht5/js/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/Opdracht5/o5.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/Opdracht5/o5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/labo2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/labo2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem2/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2/sem2.html" afterDir="false" />
-    </list>
+    <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -167,7 +146,7 @@
       <workItem from="1675832282930" duration="1229000" />
       <workItem from="1675931769698" duration="2870000" />
       <workItem from="1676145012101" duration="442000" />
-      <workItem from="1677006597188" duration="15189000" />
+      <workItem from="1677006597188" duration="15719000" />
     </task>
     <servers />
   </component>
