@@ -1,9 +1,10 @@
 const setup = () => {
-    let welkom=document.getElementById("welkom")
-    welkom.addEventListener("click", welkom);
+    let btnChange=document.getElementById("btnChange");
+    btnChange.addEventListener("click", change);
 }
-const welkom = () => {
-    let pElement=document.getElementById("txtOutput");
-    pElement.innerHTML="Welkom!";
+
+const change = () => {
+    let pElement = document.getElementById("txtOutput");
+    pElement.innerHTML = "Welkom!";
 }
 window.addEventListener("load", setup);
