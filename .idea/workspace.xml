@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/labo2/Demonstratie Lijsten/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/Demonstratie Lijsten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/col/col.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/col/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/col/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/deo/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/deo/deo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/deo/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/o1/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/o1/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/o1/o1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/o2/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/o2/os.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/para/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/para/para.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/para/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/pro/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/pro/js/sj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2Labo3/pro/pro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2Labo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/S2Labo3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem2/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2/sem2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +35,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -148,7 +168,9 @@
       <workItem from="1675832282930" duration="1229000" />
       <workItem from="1675931769698" duration="2870000" />
       <workItem from="1676145012101" duration="442000" />
-      <workItem from="1677006597188" duration="16035000" />
+      <workItem from="1677006597188" duration="16375000" />
+      <workItem from="1677970380192" duration="3366000" />
+      <workItem from="1677973797208" duration="51000" />
     </task>
     <servers />
   </component>
