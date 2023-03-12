@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/S2Labo3/o1/o1.html" beforeDir="false" afterPath="$PROJECT_DIR$/S2Labo3/o1/o1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2Labo3/pro/pro.html" beforeDir="false" afterPath="$PROJECT_DIR$/S2Labo3/pro/pro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/Opdracht/Opdracht.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/Opdracht/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/functie/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/functie/fun.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/functie/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/invulformulier/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/invulformulier/invulformulier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/invulformulier/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/man/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/man/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/man/man.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/spa/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/spa/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo44/spa/spa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/labo5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo44/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo44/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem2/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2/sem2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +169,13 @@
       <workItem from="1677970380192" duration="3366000" />
       <workItem from="1677973797208" duration="51000" />
       <workItem from="1677974066871" duration="87000" />
+      <workItem from="1678045040673" duration="2528000" />
+      <workItem from="1678134936339" duration="595000" />
+      <workItem from="1678268112486" duration="32000" />
+      <workItem from="1678279988955" duration="1375000" />
+      <workItem from="1678284105582" duration="5641000" />
+      <workItem from="1678617096751" duration="3174000" />
+      <workItem from="1678620316478" duration="37000" />
     </task>
     <servers />
   </component>
