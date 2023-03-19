@@ -5,7 +5,3 @@
 input.invalid {
     border : solid 1px red;
 }
-div {
-    width: 150px;
-    display: inline-block;
-}
