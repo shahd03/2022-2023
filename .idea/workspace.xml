@@ -5,24 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo44/Opdracht/Opdracht.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/Opdracht/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/functie/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/functie/fun.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/functie/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/invulformulier/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/invulformulier/invulformulier.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/invulformulier/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/man/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/man/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/man/man.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/spa/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/spa/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo44/spa/spa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo55/labo5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/de-het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/de-het/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/formvalidatie/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/formvalidatie/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/formwaarden/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/gemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/gemeenten/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/trigrams/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo55/trigrams/trigrams.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo44/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo44/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem2/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2/sem2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo55/labo5.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo55/labo5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +27,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -176,6 +171,9 @@
       <workItem from="1678284105582" duration="5641000" />
       <workItem from="1678617096751" duration="3174000" />
       <workItem from="1678620316478" duration="37000" />
+      <workItem from="1678884461436" duration="4817000" />
+      <workItem from="1678892367744" duration="2502000" />
+      <workItem from="1679222118920" duration="2968000" />
     </task>
     <servers />
   </component>
