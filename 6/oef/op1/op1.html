@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Opdracht 1</title>
+</head>
+<body>
+<h2>Opdracht 1:</h2>
+<p>Use the DOM to change my text!</p>
+<script>
+    const setup = () => {
+        let element = document.querySelectorAll("p")[0];
+        let oudeTekst =element.childNodes[0];
+        let tekst = document.createTextNode("Good Job!");
+        element.replaceChild(tekst, oudeTekst);
+    }
+    window.addEventListener("load", setup);
+</script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        #myDIV {
+            border: 1px solid black;
+            margin-bottom: 10px;
+        }
+    </style>
+    <title>Opdracht 3</title>
+</head>
+<body>
+<h2>Opdracht 3 :</h2>
+<p>Click the button to create a P-element with some text, and append it to DIV.</p>
+<div id="myDIV"> A DIV-element: </div>
+<script>
+    const setup = () => {
+        const button = document.querySelector("#resultaat");
+        button.addEventListener('click', click);
+    }
+    const click = () => {
+        const p = document.querySelector("p");
+        const div = document.querySelector("#myDIV");
+        div.append(p);
+    }
+    window.addEventListener("load", setup);
+</script>
+<button id="resultaat" type="button">Click</button>
+</body>
+</html>
