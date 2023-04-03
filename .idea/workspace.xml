@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/7/m1/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/m1/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m1/image/foto1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m1/image/foto2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m1/image/foto3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m1/image/foto4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m1/image/foto5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m1/image/foto6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m1/image/istockphoto-1288120192-612x612.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7/BeginSituatie_HitAnObject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7/BeginSituatie_HitAnObject/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7/BeginSituatie_HitAnObject/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/7/BeginSituatie_HitAnObject/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7/BeginSituatie_HitAnObject/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/7/BeginSituatie_HitAnObject/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7/m1/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/7/m1/css/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7/m1/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/7/m1/js/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7/m1/m1.html" beforeDir="false" afterPath="$PROJECT_DIR$/7/m1/m1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,11 +70,11 @@
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7\m1\image" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht5\css" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht4\image" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht1\css" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht1\js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -173,7 +177,7 @@
       <workItem from="1680092581451" duration="7373000" />
       <workItem from="1680102031079" duration="4000" />
       <workItem from="1680264277815" duration="3199000" />
-      <workItem from="1680556275255" duration="2693000" />
+      <workItem from="1680556275255" duration="6406000" />
     </task>
     <servers />
   </component>

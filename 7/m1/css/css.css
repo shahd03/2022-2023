@@ -1,4 +1,29 @@
 body {
-    background-color: #330133;
+    background-color: #cc94f2;
 
+}
+
+#playField{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: auto;
+    height: 600px;
+    width: 800px;
+}
+
+.image{
+    background-image: url("../image/istockphoto-927047528-612x612.jpg");
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-radius:10px;
+    border: solid #4f064f 5px;
+}
+
+#button {
+    display: grid;
+    align-items: center;
+    margin: auto;
+    height: 30px;
+    width: 150px;
+    background-color: #eaca25;
 }
