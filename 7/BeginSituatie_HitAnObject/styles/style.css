@@ -1,0 +1,19 @@
+html, body {
+    margin:0px;
+}
+
+#playField {
+    position: relative;
+    width: 600px;
+    height: 800px;
+    border:solid 1px black;
+    box-sizing:border-box;
+}
+
+#playField img {
+    position: absolute;
+}
+
+#target {
+    position: absolute;
+}

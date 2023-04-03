@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6/colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/colorpicker/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/oef/oef.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/oef/op1/op1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/oef/op2/op2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/oef/op2/pic/ik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/oef/op3/op3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/labo7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/demo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6/labo6.html" beforeDir="false" afterPath="$PROJECT_DIR$/6/labo6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem2/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2/sem2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7/labo7.html" beforeDir="false" afterPath="$PROJECT_DIR$/7/labo7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +62,11 @@
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht5\css" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht4\image" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht1\css" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht1\js" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labos2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -175,7 +165,11 @@
       <workItem from="1678892367744" duration="2502000" />
       <workItem from="1679222118920" duration="4136000" />
       <workItem from="1679494713677" duration="5587000" />
-      <workItem from="1679776765171" duration="6339000" />
+      <workItem from="1679776765171" duration="7098000" />
+      <workItem from="1680092581451" duration="7373000" />
+      <workItem from="1680102031079" duration="4000" />
+      <workItem from="1680264277815" duration="3199000" />
+      <workItem from="1680556275255" duration="427000" />
     </task>
     <servers />
   </component>
