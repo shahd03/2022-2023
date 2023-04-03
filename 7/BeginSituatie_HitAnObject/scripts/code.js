@@ -1,6 +1,4 @@
-const setup = () => {
-
-    let global = {
+let global = {
         IMAGE_COUNT: 5,  // aantal figuren
         IMAGE_SIZE: 48, // grootte van de figuur
         IMAGE_PATH_PREFIX: "images/",  // map van de figuren
@@ -8,42 +6,48 @@ const setup = () => {
         MOVE_DELAY: 3000, // aantal milliseconden voor een nieuwe afbeelding verschijnt
         score: 0,    // aantal hits
         timeoutId: 0 // id van de timeout timer, zodat we die kunnen annuleren
-    };
+};
+const setup = () => {
+    let button = document.querySelector("button");
+    button.addEventListener("click", start);
+};
 
-    let playField = document.getElementById('playField');
-    let startBtn = document.getElementById('startButton');
-    let afbeelding = document.createElement("img");
-
-// plaats het afbeelding in het speelveld
-    playField.appendChild(afbeelding);
-
-// zet de positie van het afbeelding willekeurig
-    let x = Math.floor(Math.random() * (playField.offsetWidth - global.IMAGE_SIZE));
-    let y = Math.floor(Math.random() * (playField.offsetHeight - global.IMAGE_SIZE));
-    afbeelding.style.left = x + "px";
-    afbeelding.style.top = y + "px";
-
-// voeg een click event toe aan het afbeelding
-    afbeelding.addEventListener("click", function() {
-        global.score++;
-
-        console.log("Score: " + global.score);
-        x = Math.floor(Math.random() * (playField.offsetWidth - global.IMAGE_SIZE));
-        y = Math.floor(Math.random() * (playField.offsetHeight - global.IMAGE_SIZE));
-        afbeelding.style.left = x + "px";
-        afbeelding.style.top = y + "px";
-    });
-
-// voeg een click event toe aan de start knop
-    startBtn.addEventListener("click", function() {
-        if (global.timeoutId === 0) {
-            global.timeoutId = setInterval(function() {
-                console.log("Tick");
-            }, global.MOVE_DELAY);
-        }
-    });
+const start = () => {
+    let imaClick = document.querySelector("img");
+    imaClick.addEventListener("click", controle);
+    moveImage();
 }
 
-window.addEventListener("load", setup);
+const controle = () => {
+    clearTimeout(global.timeoutId);
+    let image = document.getElementsByClassName("image")[0];
+    let score = document.querySelector("span");
+    if(image.getAttribute("src") === "images/0.png"){
+        alert("Game Over! \n Score: " + global.score);
+        global.score = 0;
+        score.textContent = "Aantal Hits : " + global.score;
+    }
+    else{
+        global.score++;
+        score.textContent = "Aantal Hits : " + global.score;
+        moveImage();
+    }
+};
 
+const moveImage = () => {
+    let image = document.getElementsByClassName("image")[0];
+    let playField = document.getElementById("playField");
+    let maxHeight = playField.clientHeight - image.offsetHeight;
+    let maxLeft = playField.clientWidth - image.offsetWidth;
+    let left = Math.floor(Math.random() * maxLeft);
+    let top = Math.floor(Math.random() * maxHeight);
+    image.style.left = left + "px";
+    image.style.top = top + "px";
+    clearTimeout(global.timeoutId);
+    global.timeoutId = setTimeout(moveImage, global.MOVE_DELAY);
+    let random = Math.floor(Math.random() * 5);
+    image.setAttribute("src", "images/" + random + ".png");
+};
+
+window.addEventListener("load", setup);
 

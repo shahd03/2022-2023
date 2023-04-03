@@ -1,19 +1,9 @@
-html, body {
-    margin:0px;
-}
-
 #playField {
-    position: relative;
-    width: 600px;
-    height: 800px;
-    border:solid 1px black;
-    box-sizing:border-box;
+    height: 600px;
+    width: 800px;
+    border: black solid;
 }
 
-#playField img {
-    position: absolute;
-}
-
-#target {
+.image {
     position: absolute;
 }
