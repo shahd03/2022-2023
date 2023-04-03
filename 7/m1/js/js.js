@@ -2,7 +2,7 @@ let global = {
     IMAGE_PREFIX: `url(\"image/foto`,
     IMAGE_SUFFIX: `.png\")`,
     controleerFoto: true,
-    tweeKaartenAlOmgedraaid: false,
+    kaartenOmgedraaid: false,
     geklikteFoto: null,
     images: [],
     atlGeraden: 0,
@@ -10,50 +10,58 @@ let global = {
 
 const setup = () => {
     let button = document.querySelector("button");
-    button.addEventListener("click", herstartSpel);
-    let localeVariableImages = [];
+    button.addEventListener("click", herstart);
+    let toSave = [];
     for (let i = 1; i < 13; i++) {
         if (i > 6){
             let ii = i - 6;
-            localeVariableImages.push(global.IMAGE_PREFIX + ii + global.IMAGE_SUFFIX)
+            toSave.push(global.IMAGE_PREFIX + ii + global.IMAGE_SUFFIX)
         }
         else {
-            localeVariableImages.push(global.IMAGE_PREFIX + i + global.IMAGE_SUFFIX)
+            toSave.push(global.IMAGE_PREFIX + i + global.IMAGE_SUFFIX)
         }
     }
-    let i = localeVariableImages.length;
+    let i = toSave.length;
     while (i > 0) {
         let index = Math.floor(Math.random() * i);
         i--;
-        let variable = localeVariableImages[i];
-        localeVariableImages[i] = localeVariableImages[index];
-        localeVariableImages[index] = variable;
+        let variable = toSave[i];
+        toSave[i] = toSave[index];
+        toSave[index] = variable;
     }
-    global.images = localeVariableImages;
+    global.images = toSave;
     let fotos = document.getElementsByClassName("image");
     for (let i = 0; i < fotos.length; i++) {
-        fotos[i].addEventListener("click", draaiOm)
+        fotos[i].addEventListener("click", draai)
     }
 };
+const draaiTerug = (element) => {
+    element.addEventListener("click", draai);
+    global.geklikteFoto.addEventListener("click", draai);
+    element.style.backgroundImage = "";
+    global.geklikteFoto.style.backgroundImage = "";
+    global.controleerFoto = true;
+    global.kaartenOmgedraaid = false;
+};
 
-const draaiOm = (i) => {
-    if (global.tweeKaartenAlOmgedraaid === false){
-        let element = i.target;
-        let index = element.getAttribute("id") -1;
+const draai = (i) => {
+    if (global.kaartenOmgedraaid === false){
+        let elmt = i.target;
+        let index = elmt.getAttribute("id") -1;
         let foto = global.images[index];
 
         if (global.controleerFoto){
-            element.removeEventListener("click", draaiOm);
-            element.style.backgroundImage = foto;
-            global.geklikteFoto = element;
+            elmt.removeEventListener("click", draai);
+            elmt.style.backgroundImage = foto;
+            global.geklikteFoto = elmt;
             global.controleerFoto = false;
         }
         else if (global.controleerFoto === false){
-            element.style.backgroundImage = foto;
-            element.removeEventListener("click", draaiOm);
+            elmt.style.backgroundImage = foto;
+            elmt.removeEventListener("click", draai);
             if(global.geklikteFoto.style.backgroundImage !== foto){
-                global.tweeKaartenAlOmgedraaid = true;
-                setTimeout(draaiTerugOm, 800, element);
+                global.kaartenOmgedraaid = true;
+                setTimeout(draaiTerug, 800, elmt);
             }
             else{
                 global.controleerFoto = true;
@@ -61,16 +69,7 @@ const draaiOm = (i) => {
 
             }}}};
 
-const draaiTerugOm = (element) => {
-    element.addEventListener("click", draaiOm);
-    global.geklikteFoto.addEventListener("click", draaiOm);
-    element.style.backgroundImage = "";
-    global.geklikteFoto.style.backgroundImage = "";
-    global.controleerFoto = true;
-    global.tweeKaartenAlOmgedraaid = false;
-};
-
-const herstartSpel = () => {
+const herstart = () => {
     window.location.reload();
 };
 
