@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/7/m2/audio/correct.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/audio/false.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/image/foto1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/image/foto2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/image/foto3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/image/foto4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/image/foto5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/image/foto6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/image/istockphoto-927047528-612x612.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/m2/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/labo8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7/m1/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/7/m1/js/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7/m2/m2.html" beforeDir="false" afterPath="$PROJECT_DIR$/7/m2/m2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem2/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2/sem2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,29 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/6/colorpicker&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/7/m2/audio",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7\m2\audio" />
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7\m2" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\6\colorpicker" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\6\oef\op2\pic" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo10\images" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\Opdracht5" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\Labo8\image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7\m1\image" />
@@ -168,7 +180,8 @@
       <workItem from="1680092581451" duration="7373000" />
       <workItem from="1680102031079" duration="4000" />
       <workItem from="1680264277815" duration="3199000" />
-      <workItem from="1680556275255" duration="7148000" />
+      <workItem from="1680556275255" duration="7935000" />
+      <workItem from="1680902892414" duration="1986000" />
     </task>
     <servers />
   </component>
