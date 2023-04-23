@@ -5,7 +5,7 @@ const bewaarBewerktePersoon = () => {
 
     let invalid = document.querySelectorAll(".invalid");
     if(invalid.length === 0){
-        let person = {
+        let persoon = {
             firstname: document.querySelector("#txtVoornaam").value,
             lastname: document.querySelector("#txtFamilienaam").value,
             birthDate: document.querySelector("#txtGeboorteDatum").value,
@@ -15,24 +15,24 @@ const bewaarBewerktePersoon = () => {
         let newPersoon= true;
         let i = 0;
         while(i < personen.length && newPersoon){
-            if(personen[i].email === person.email){
+            if(personen[i].email === persoon.email){
                 newPersoon = false;
-                personen[i] = person;
+                personen[i] = persoon;
             }
             i++;
         }
         if(newPersoon){
-            personen.push(person);
+            personen.push(persoon);
         }
     }
 
-    let selectPerson = document.querySelector("select");
+    let selectPersoon = document.querySelector("select");
     for (let i = 0; i < personen.length; i++) {
         let option = document.createElement("option");
         option.id = i.toString();
         let text = document.createTextNode(personen[i].firstname + " " + personen[i].lastname);
         option.appendChild(text);
-        selectPerson.appendChild(option);
+        selectPersoon.appendChild(option);
     }
 
     let optionElements = document.querySelectorAll("option")
