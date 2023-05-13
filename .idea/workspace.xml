@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10/labo10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/Start_Colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/Start_Colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/Start_Colorpicker/scripts/storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/Start_Colorpicker/scripts/swatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/Start_Colorpicker/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/labo9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/webpagina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/koffiemachinesysteem/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/koffiemachinesysteem/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/koffiemachinesysteem/js/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/koffiemachinesysteem/koffiemachinesysteem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/koffiemachinesysteem/pic/img_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10/labo10.html" beforeDir="false" afterPath="$PROJECT_DIR$/10/labo10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sem2/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2/sem2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,30 +52,31 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/9&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/9/Start_Colorpicker&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\9\Start_Colorpicker" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\9" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7\m2\audio" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7\m2" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\6\colorpicker" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\6\oef\op2\pic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\9\koffiemachinesysteem\audio" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\8\cm" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7\m1\image" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\7" />
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht5\css" />
-      <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\labo2\Opdracht4\image" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -182,7 +186,16 @@
       <workItem from="1682243010998" duration="2178000" />
       <workItem from="1682497820643" duration="734000" />
       <workItem from="1682511302129" duration="7178000" />
-      <workItem from="1682533454103" duration="1018000" />
+      <workItem from="1682533454103" duration="1298000" />
+      <workItem from="1682535523155" duration="10108000" />
+      <workItem from="1682586091463" duration="151000" />
+      <workItem from="1682594229101" duration="386000" />
+      <workItem from="1683010892609" duration="2000" />
+      <workItem from="1683096726584" duration="568000" />
+      <workItem from="1683114825362" duration="10532000" />
+      <workItem from="1683188241648" duration="2064000" />
+      <workItem from="1684012381693" duration="5081000" />
+      <workItem from="1684017538750" duration="480000" />
     </task>
     <servers />
   </component>

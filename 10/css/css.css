@@ -1,0 +1,102 @@
+body {
+     margin-left: 150px;
+     margin-right: 150px;
+     font-family:  Arial, Helvetica, sans-serif;
+ }
+
+.Google {
+    color: white;
+    height: 150px;
+    background-color: #4285f4;
+}
+
+.Twitter {
+    color: white;
+    height: 150px;
+    background-color: #1da1f2;
+ }
+
+ .Instagram {
+     color: white;
+     height: 150px;
+     background-color: #c32aa3;
+ }
+ .c
+
+.Youtube {
+    color: white;
+    height: 150px;
+    background-color: #ff0000;
+}
+
+.grayBtn {
+    padding: 5px 0 5px 0;
+    border-radius: 15%;
+    border-style: hidden;
+    background-color: #282828;
+    color: white;
+    width: 15%;
+}
+
+.orangeBtn {
+    padding: 5px 0 5px 0;
+    border-radius: 15%;
+    border-style: hidden;
+    background-color: #ea4335;
+    color: #ffdc7d;
+    width: 15%;
+}
+ .blackBtn {
+     padding: 5px 0 5px 0;
+     border-radius: 15%;
+     border-style: hidden;
+     background-color: #14171a;
+     color: white;
+     width: 15%;
+
+ }
+
+ .yellowBtn {
+     padding: 5px 0 5px 0;
+     border-radius: 15%;
+     border-style: hidden;
+     background-color: #f46f30;
+     color: #fbbc05;
+     width: 15%;
+ }
+
+ .search {
+     padding-bottom: 10px;
+ }
+
+ div {
+     padding: 20px 20px 0 20px;
+ }
+
+ .searchbox {
+     padding: 6px 0 6px 10px;
+     width: 100%;
+ }
+
+ .divW {
+     padding: 20px 20px 0 20px;
+ }
+
+#history {
+    padding-top: 0;
+}
+
+ .gray {
+     color: gray;
+ }
+
+ .title {
+     font-weight: bold;
+ }
+
+ .button {
+     border-color: darkgreen;
+     border-width: 3px;
+     background-color: #44a845;
+     width: 100%;
+ }

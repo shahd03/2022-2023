@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <title>Koffie Machine</title>
+  <link href="css/css.css" rel="stylesheet">
+</head>
+<body>
+<h1>Koffie Machine:</h1>
+<div>
+  <select id="orders" size="10"></select>
+</div>
+<form>
+  <div class="line">
+  <label for="type">Kies een koffiesoort:</label>
+  <select id="type" name="type" value="">
+    <option value="espresso">Espresso</option>
+    <option value="cappuccino">Cappuccino</option>
+    <option value="latte">Latte</option>
+  </select>
+  </div>
+  <br>
+  <div class="line">
+  <label for="sugar">Kies hoeveel suiker:</label>
+  <select id="sugar" name="sugar" value="">
+    <option value="0">Geen suiker</option>
+    <option value="1">1 schepje suiker</option>
+    <option value="2">2 schepjes suiker</option>
+    <option value="3">3 schepjes suiker</option>
+  </select>
+  </div>
+  <br>
+  <div class="line">
+  <label for="milk">Kies hoeveel melk:</label>
+  <select id="milk" name="milk" value="">
+    <option value="0">Geen melk</option>
+    <option value="1">Een beetje melk</option>
+    <option value="2">Veel melk</option>
+  </select>
+  </div>
+  <br>
+  <button type="button">Totale Prijs</button>
+  <br>
+  <br>
+  <button type="button" >Brouw Koffie</button>
+</form>
+<script type="text/javascript" charset="utf-8" src="js/storage.js"></script>
+<script type="text/javascript" charset="utf-8" src="js/js.js"></script>
+</body>
+</html>
