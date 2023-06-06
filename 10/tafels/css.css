@@ -1,0 +1,42 @@
+.table {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.box {
+    background-color: #2D3142;
+    color: white;
+    border: solid black 2px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: black;
+}
+
+.row {
+    width: 100%;
+    padding: 10px 0 10px 10px;
+}
+
+.row:nth-child(even) {
+    background-color: lightgray;
+}
+
+.row:nth-child(odd) {
+    background-color: white;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 315px));
+}
+
+.button {
+    border: lightgray 2px solid;
+    border-radius: 15%;
+    background-color: white;
+}

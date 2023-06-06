@@ -1,103 +1,114 @@
-const setup = () => {
-    let btn = document.querySelector("#button");
-    btn.addEventListener("click", search);
+const setup = (   ) => {
+    let button = document.querySelector("#button");
+    button.addEventListener("click", search);
     restoreLocalStorage();
 };
 
-const search = () => {
-    const input = document.getElementById("search").value;
-    const commando = input.substring(1, 2);
-    let query = input.substring(3).trim();
-    let invalidCommando = false;
-    if(input.substring(0, 1) === "/"){
+const search = (   ) => {
+    const searchInput = document.getElementById("search").value;
+    const commando = searchInput.substring(1, 2);
+    let query = searchInput.substring(3).trim();
+
+    let invalid_commando = false;
+
+    if(searchInput.substring(0, 1) === "/"){
         switch (commando) {
-            case "i":
-                window.open(`https://www.instagram.com/explore/tags/${query}`);
+            case "y":
+                window.open(`https://www.youtube.com/results?search_query=${query}`);
                 break;
             case "g":
                 window.open(`https://www.google.com/search?q=${query}`);
                 break;
-            case "y":
-                window.open(`https://www.youtube.com/results?search_query=${query}`);
-                break;
             case "t":
                 window.open(`https://twitter.com/hashtag/${query}`);
                 break;
+            case "i":
+                window.open(`https://www.instagram.com/explore/tags/${query}`);
+                break;
             default:
-                alert("Unknown command prefix.");
-                invalidCommando = true;
+                alert("Unknown command prefix");
+                invalid_commando = true;
                 break;
         }
     }
     else{
-        alert("Invalid Command.");
-        invalidCommando = true;
+        alert("invalid command");
+        invalid_commando = true;
     }
 
-    let search = document.createElement("h6");
-    search.append(input.substring(2));
-    search.classList.add("search");
+
     const history = document.getElementById("history");
+
+    let search = document.createElement("h6");
+    search.append(searchInput.substring(2));
+    search.classList.add("search");
+
     let button = document.createElement("button");
     button.innerText = "GO!";
-    button.addEventListener("click", search2);
-    if(!invalidCommando){
-        const divW = document.createElement("div");
-        divW.classList.add("col-4");
-        divW.classList.add("divW");
+    button.addEventListener("click", search_again);
+
+    if(!invalid_commando){
+        const wrapperdiv = document.createElement("div");
+        wrapperdiv.classList.add("col-4");
+        wrapperdiv.classList.add("wrapperdiv");
+
         const div = document.createElement("div");
-        let titl = document.createElement("h5");
+
+        let title = document.createElement("h5");
+
         switch (commando) {
-            case "t":
-                titl.innerText = "Twitter";
-                div.classList.add("Twitter");
-                div.classList.add("card");
-                div.append(titl);
-                button.classList.add("blackBtn");
-                break;
             case "y":
-                titl.innerText = "Youtube";
+                title.innerText = "Youtube";
                 div.classList.add("Youtube");
                 div.classList.add("card");
-                div.append(titl);
-                button.classList.add("grayBtn");
-                break;
-            case "i":
-                titl.innerText = "Instagram";
-                div.classList.add("Instagram");
-                div.classList.add("card");
-                div.append(titl);
-                button.classList.add("yellowBtn");
+                div.append(title);
+                button.classList.add("dark_gray_button");
                 break;
             case "g":
-                titl.innerText = "Google";
+                title.innerText = "Google";
                 div.classList.add("Google");
                 div.classList.add("card");
-                div.append(titl);
-                button.classList.add("orangeBtn");
+                div.append(title);
+                button.classList.add("orange_button");
+                break;
+            case "t":
+                title.innerText = "Twitter";
+                div.classList.add("Twitter");
+                div.classList.add("card");
+                div.append(title);
+                button.classList.add("black_button");
+                break;
+            case "i":
+                title.innerText = "Instagram";
+                div.classList.add("Instagram");
+                div.classList.add("card");
+                div.append(title);
+                button.classList.add("yellow_button");
                 break;
         }
-        history.appendChild(divW);
         div.append(search);
         div.append(button);
-        divW.append(div);
-        saveLocalStorage();
+        wrapperdiv.append(div);
+        history.appendChild(wrapperdiv);
+        saveToLocalStorage();
     }
 };
 
-const search2 = () => {
-    const input = document.getElementById("search").value;
-    const commando = input.substring(1, 2);
-    const query = input.substring(3).trim();
+const search_again = (   ) => {
+    const searchInput = document.getElementById("search").value;
+    const commando = searchInput.substring(1, 2);
+
+    const query = searchInput.substring(3).trim();
+
     switch (commando) {
-        case "t":
-            window.open(`https://twitter.com/hashtag/${query}`);
+        case "y":
+            window.open(`https://www.youtube.com/results?search_query=${query}`);
             break;
         case "g":
             window.open(`https://www.google.com/search?q=${query}`);
             break;
-        case "y":
-            window.open(`https://www.youtube.com/results?search_query=${query}`);
+        case "t":
+            window.open(`https://twitter.com/hashtag/${query}`);
             break;
         case "i":
             window.open(`https://www.instagram.com/explore/tags/${query}`);
@@ -105,27 +116,29 @@ const search2 = () => {
     }
 };
 
-const saveLocalStorage = () => {
-    let arr = [];
-    let divs = document.querySelectorAll(".divW");
+//werkt niet
+const saveToLocalStorage = (   ) => {
+    localStorage.clear();
+    let array = [];
+    let divs = document.querySelectorAll(".wrapperdiv").values();
     for (let i = 0; i < divs.length; i++) {
-        let divW = divs[i].innerHTML;
-        arr.push(divW);
+        let wrapperdiv = divs[i];
+        array.push(wrapperdiv);
     }
-    let save = JSON.stringify(arr);
+    let save = JSON.stringify(array);
     localStorage.setItem("save", save);
 };
 
-const restoreLocalStorage = () => {
+//werkt niet
+const restoreLocalStorage = (   ) => {
     const history = document.getElementById("history");
-    let SArray = localStorage.getItem("save");
-    let array = JSON.parse(SArray);
+
+    let stringArray = localStorage.getItem("save");
+    let array = JSON.parse(stringArray);
+
     for (let i = 0; i < array.length; i++) {
-        let divW = document.createElement("div");
-        divW.classList.add("col-4");
-        divW.classList.add("divW");
-        divW.innerHTML = array[i];
-        history.appendChild(divW);
+        history.appendChild(array[i].value);
     }
 };
+
 window.addEventListener("load", setup);

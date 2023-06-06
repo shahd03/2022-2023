@@ -1,43 +1,42 @@
-let personen = [];
+let persons = [];
 
-const bewaarBewerktePersoon = () => {
+const changeReworkedPerson = () => {
     valideer();
-
     let invalid = document.querySelectorAll(".invalid");
     if(invalid.length === 0){
-        let persoon = {
+        let person = {
             firstname: document.querySelector("#txtVoornaam").value,
             lastname: document.querySelector("#txtFamilienaam").value,
             birthDate: document.querySelector("#txtGeboorteDatum").value,
             email: document.querySelector("#txtEmail").value,
             numberOfChildren: document.querySelector("#txtAantalKinderen").value
         }
-        let newPersoon= true;
+        let newPerson = true;
         let i = 0;
-        while(i < personen.length && newPersoon){
-            if(personen[i].email === persoon.email){
-                newPersoon = false;
-                personen[i] = persoon;
+        while(i < persons.length && newPerson){
+            if(persons[i].email === person.email){
+                newPerson = false;
+                persons[i] = person;
             }
             i++;
         }
-        if(newPersoon){
-            personen.push(persoon);
+        if(newPerson){
+            persons.push(person);
         }
-    }
-
-    let selectPersoon = document.querySelector("select");
-    for (let i = 0; i < personen.length; i++) {
-        let option = document.createElement("option");
-        option.id = i.toString();
-        let text = document.createTextNode(personen[i].firstname + " " + personen[i].lastname);
-        option.appendChild(text);
-        selectPersoon.appendChild(option);
     }
 
     let optionElements = document.querySelectorAll("option")
     for (let optionElement of optionElements) {
         optionElement.remove();
+    }
+
+    let selectPerson = document.querySelector("select");
+    for (let i = 0; i < persons.length; i++) {
+        let option = document.createElement("option");
+        option.id = i.toString();
+        let text = document.createTextNode(persons[i].firstname + " " + persons[i].lastname);
+        option.appendChild(text);
+        selectPerson.appendChild(option);
     }
 };
 
@@ -50,25 +49,26 @@ const bewerkNieuwePersoon = () => {
     }
 };
 
-const update = (event) => {
+const changePerson = (event) => {
     let target = event.target;
     let i = target.id;
-    let persoon = personen[i];
-    document.querySelector("#txtVoornaam").value = persoon.firstname;
-    document.querySelector("#txtFamilienaam").value = persoon.lastname;
-    document.querySelector("#txtGeboorteDatum").value = persoon.birthDate;
-    document.querySelector("#txtEmail").value = persoon.email;
-    document.querySelector("#txtAantalKinderen").value = persoon.numberOfChildren;
     Number(i);
+    let person = persons[i];
+    document.querySelector("#txtVoornaam").value = person.firstname;
+    document.querySelector("#txtFamilienaam").value = person.lastname;
+    document.querySelector("#txtGeboorteDatum").value = person.birthDate;
+    document.querySelector("#txtEmail").value = person.email;
+    document.querySelector("#txtAantalKinderen").value = person.numberOfChildren;
 }
-
-// onze setup functie die de event listeners registreert
 const setup = () => {
     let btnBewaar = document.getElementById("btnBewaar");
-    btnBewaar.addEventListener("click", bewaarBewerktePersoon);
+    btnBewaar.addEventListener("click", changeReworkedPerson);
+
     let btnNieuw = document.getElementById("btnNieuw");
     btnNieuw.addEventListener("click", bewerkNieuwePersoon);
+
     let lstPersonen = document.getElementById("lstPersonen");
-    lstPersonen.addEventListener("change", update);
+    lstPersonen.addEventListener("click", changePerson);
 };
+
 window.addEventListener("load", setup);

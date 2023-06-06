@@ -1,102 +1,99 @@
 body {
-     margin-left: 150px;
-     margin-right: 150px;
-     font-family:  Arial, Helvetica, sans-serif;
- }
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: Calibri, serif;
+}
 
-.Google {
-    color: white;
+.Youtube {
     height: 150px;
-    background-color: #4285f4;
+    background-color: #ff0000;
+    color: white;
 }
 
 .Twitter {
-    color: white;
     height: 150px;
     background-color: #1da1f2;
- }
-
- .Instagram {
-     color: white;
-     height: 150px;
-     background-color: #c32aa3;
- }
- .c
-
-.Youtube {
     color: white;
-    height: 150px;
-    background-color: #ff0000;
 }
 
-.grayBtn {
+.Google {
+    height: 150px;
+    background-color: #4285f4;
+    color: white;
+}
+
+.Instagram {
+    height: 150px;
+    background-color: #c32aa3;
+    color: white;
+}
+
+.black_button {
+    background-color: #14171a;
+    color: white;
+    width: 15%;
     padding: 5px 0 5px 0;
     border-radius: 15%;
     border-style: hidden;
+}
+
+.dark_gray_button {
     background-color: #282828;
     color: white;
     width: 15%;
-}
-
-.orangeBtn {
     padding: 5px 0 5px 0;
     border-radius: 15%;
     border-style: hidden;
+}
+
+.orange_button {
     background-color: #ea4335;
     color: #ffdc7d;
     width: 15%;
+    padding: 5px 0 5px 0;
+    border-radius: 15%;
+    border-style: hidden;
 }
- .blackBtn {
-     padding: 5px 0 5px 0;
-     border-radius: 15%;
-     border-style: hidden;
-     background-color: #14171a;
-     color: white;
-     width: 15%;
 
- }
+.yellow_button {
+    background-color: #f46f30;
+    color: #fbbc05;
+    width: 15%;
+    padding: 5px 0 5px 0;
+    border-radius: 15%;
+    border-style: hidden;
+}
 
- .yellowBtn {
-     padding: 5px 0 5px 0;
-     border-radius: 15%;
-     border-style: hidden;
-     background-color: #f46f30;
-     color: #fbbc05;
-     width: 15%;
- }
+.search {
+    padding-bottom: 10px;
+}
 
- .search {
-     padding-bottom: 10px;
- }
+div {
+    padding: 20px 20px 0 20px;
+}
 
- div {
-     padding: 20px 20px 0 20px;
- }
+.searchbox {
+    padding: 6px 0 6px 10px;
+    width: 100%;
+}
 
- .searchbox {
-     padding: 6px 0 6px 10px;
-     width: 100%;
- }
+.wrapperdiv {
+    padding: 20px 20px 0 20px;
+}
 
- .divW {
-     padding: 20px 20px 0 20px;
- }
+.gray {
+    color: gray;
+}
 
+.bold {
+    font-weight: bold;
+}
+
+.button {
+    border-color: darkseagreen;
+    border-width: 3px;
+    background-color: #44a845;
+}
 #history {
     padding-top: 0;
 }
-
- .gray {
-     color: gray;
- }
-
- .title {
-     font-weight: bold;
- }
-
- .button {
-     border-color: darkgreen;
-     border-width: 3px;
-     background-color: #44a845;
-     width: 100%;
- }

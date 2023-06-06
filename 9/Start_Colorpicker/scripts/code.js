@@ -7,7 +7,6 @@ const initialize = () => {
         sliders[i].addEventListener("change", update);
         sliders[i].addEventListener("input", update);
     }
-
     restoreSliderValues();
     restoreSwatches();
     update();
