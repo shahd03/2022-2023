@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80cab635-cdef-4b09-b50c-7cff35652aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10/tafels/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/tafels/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/tafels/tafels.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/10/css/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/10/js/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/labo10.html" beforeDir="false" afterPath="$PROJECT_DIR$/10/labo10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/webpagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/10/webpagina.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8/cm/cm.html" beforeDir="false" afterPath="$PROJECT_DIR$/8/cm/cm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8/cm/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/8/cm/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9/Start_Colorpicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/9/Start_Colorpicker/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herhalingsoefeningen/Opdracht1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Opdracht1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herhalingsoefeningen/css/o1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Herhalingsoefeningen/css/o1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet/9/Start_Colorpicker&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Shahd Abuzubaida/OneDrive - Hogeschool VIVES/Documenten/GitHub/Web-developmet",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shahd Abuzubaida\OneDrive - Hogeschool VIVES\Documenten\GitHub\Web-developmet\9\Start_Colorpicker" />
@@ -196,7 +188,16 @@
       <workItem from="1684012381693" duration="5081000" />
       <workItem from="1684017538750" duration="480000" />
       <workItem from="1686048932086" duration="2775000" />
-      <workItem from="1686086192933" duration="981000" />
+      <workItem from="1686086192933" duration="1038000" />
+      <workItem from="1686087932561" duration="469000" />
+      <workItem from="1686088414470" duration="3000" />
+      <workItem from="1686171049008" duration="38000" />
+      <workItem from="1690027521583" duration="8647000" />
+      <workItem from="1690118850582" duration="3163000" />
+      <workItem from="1692217749082" duration="1053000" />
+      <workItem from="1692760145916" duration="2781000" />
+      <workItem from="1695153167471" duration="169000" />
+      <workItem from="1695153451901" duration="60000" />
     </task>
     <servers />
   </component>
